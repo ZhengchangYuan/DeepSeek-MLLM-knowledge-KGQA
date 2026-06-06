@@ -1,0 +1,7 @@
+translation_prompt=\
+    """
+    
+    
+    
+    
+    """
